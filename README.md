@@ -7,3 +7,7 @@ Contributers: Welcome!
 An algorithm that solves mazes recursivly.
 
 Details: https://jon.network/programming/62/Recursive-Maze-Solver/
+
+## ToDos
+
+Display the maze with pygame for Windows users to enjoy!
