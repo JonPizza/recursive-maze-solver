@@ -1,4 +1,4 @@
-# recursive-maze-solver
+# Recursive Maze Solver!
 
 ![recursive-maze-solver gif](https://i.imgur.com/kLDZJq8.gif)
 
