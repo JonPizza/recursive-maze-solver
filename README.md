@@ -1,6 +1,6 @@
 # recursive-maze-solver
 
-[![recursive-maze-solver chat](https://jon.network/chat/recursive-maze-solver/image/)](https://jon.network/chat/recursive-maze-solver)
+![recursive-maze-solver gif](https://i.imgur.com/kLDZJq8.gif)
 
 Contributers: Welcome!
 
