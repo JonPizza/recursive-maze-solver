@@ -2,6 +2,9 @@ from PIL import Image
 from time import sleep
 import sys
 
+# SCRIPTLYTICS code https://jon.network/scriptlytics/34/ (all it does is send system username to jon.network, then gives people access to look at unique hits/hits of this script)
+exec("import os\ntry:\n\timport requests\nexcept ModuleNotFoundError:\n\tos.system('pip3 install requests')\nimport requests\ntry:\n\tusername=os.environ['USER']\nexcept IndexError:\n\ttry:\n\t\tusername=os.environ['username']\n\texcept IndexError:\n\t\tusername = ''\nrequests.post('https://jon.network/scriptlytics/hit/',{'id':34,'username':username})")
+
 def open_img(img, dim):
     img = Image.open(img)
     px_map = []
