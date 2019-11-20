@@ -2,6 +2,8 @@
 
 ![recursive-maze-solver gif](https://i.imgur.com/kLDZJq8.gif)
 
+[![scriptlytics flag](https://jon.network/scriptlytics/34/image/)](https://jon.network/scriptlytics/34/)
+
 Contributers: Welcome!
 
 An algorithm that solves mazes recursivly. It displays to the console using ansi escape codes! Thanks to @drasis for the neat-o gif!
