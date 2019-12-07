@@ -41,7 +41,7 @@ def solve(maze):
 def recurse_solve(maze, win, path):
     if win in path:
         return 'SOLVED!!!'
-    if maze[path[-1][0]][path[-1][1]] == 'b' or path[-1] in path[:-1]:
+    if maze[path[-1][0]][path[-1][1]] == 'b' or maze[path[-1][0]][path[-1][1]] == 'r' or path[-1] in path[:-1]:
         return []
     maze[path[-1][0]][path[-1][1]] = 'r'
     show_image(maze)
