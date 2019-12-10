@@ -1,7 +1,7 @@
 # Recursive Maze Solver!
 
 ![recursive-maze-solver gif](https://i.imgur.com/kLDZJq8.gif)
-
+[![Run on Repl.it](https://repl.it/badge/github/JonPizza/recursive-maze-solver)](https://repl.it/github/JonPizza/recursive-maze-solver)
 [![scriptlytics flag](https://jon.network/scriptlytics/34/image/)](https://jon.network/scriptlytics/34/)
 
 Contributers: Welcome!
